@@ -13,6 +13,6 @@ ng serve
 Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
 
 ## Calculadora
-Se crea segunda version de calculadora
+Se crea segunda version de calculadora usando Angular y Tailwind Css
 
 
